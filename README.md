@@ -31,7 +31,7 @@ SELECT * FROM world_layoffs.layoffs;
 
 -- 1. Remove Duplicates
 
-# First let's check for duplicates
+-- First let's check for duplicates
 
 
 
